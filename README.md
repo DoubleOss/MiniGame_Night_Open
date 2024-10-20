@@ -15,10 +15,10 @@
 ***
 
 ## 👨🏻‍💻│기능 구현 목차
-###   1. [보드판 HUD 구현](https://github.com/DoubleOss/YDGround2_Open/blob/main/src/main/java/com/doubleos/yd/gui/GuiFriendship.java#L108)
-###   2. [OpenGL Rotate Animation](https://github.com/DoubleOss/YDGround2_Open/blob/main/src/main/java/com/doubleos/yd/gui/GuiFriendship.java#L108)
-###   3. [투표 시스템](https://github.com/DoubleOss/YDGround2_Open/blob/main/src/main/java/com/doubleos/yd/gui/GuiFriendship.java#L108)
-###   4. [교도관 투표 발각 로직](https://github.com/DoubleOss/YDGround2_Open/blob/main/src/main/java/com/doubleos/yd/gui/GuiFriendship.java#L108)
+###   1. [보드판 HUD 구현](https://github.com/DoubleOss/MiniGame_Night_Open?tab=readme-ov-file#1-%EB%B3%B4%EB%93%9C%ED%8C%90-hud-%EA%B5%AC%ED%98%84-1)
+###   2. [OpenGL Rotate Animation](https://github.com/DoubleOss/MiniGame_Night_Open?tab=readme-ov-file#2-opengl-rotate-animation-1)
+###   3. [투표 시스템](https://github.com/DoubleOss/MiniGame_Night_Open?tab=readme-ov-file#3-%ED%88%AC%ED%91%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-1)
+###   4. [교도관 투표 발각 로직](https://github.com/DoubleOss/MiniGame_Night_Open?tab=readme-ov-file#4-%EA%B5%90%EB%8F%84%EA%B4%80-%ED%88%AC%ED%91%9C-%EB%B0%9C%EA%B0%81-%EB%A1%9C%EC%A7%81-1)
 
 ***
 
