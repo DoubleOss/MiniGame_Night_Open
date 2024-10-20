@@ -45,6 +45,8 @@
 > * ### [서버측 질문 카드 뽑기 결과 클라이언트 전송 로직](https://github.com/DoubleOss/MiniGame_Night_Open/blob/main/src/main/java/com/doubleos/night/variable/MainGame.java#L448)
 > * ### [카드 데이터 초기화 로직](https://github.com/DoubleOss/MiniGame_Night_Open/blob/main/src/main/java/com/doubleos/night/variable/Variable.java#L103)
 
+***
+
 
 ### 3. 투표 시스템
 > * ### 투표 Gui, 결과 HUD
@@ -57,9 +59,11 @@
 > * ### [Gui 투표 완료 버튼 클릭시 서버측 처리 로직 ](https://github.com/DoubleOss/MiniGame_Night_Open/blob/main/src/main/java/com/doubleos/night/packet/SPacketVotingCount.java#L42)
 > * ### [서버측 투표 결과 클라이언트 전송 로직 ](https://github.com/DoubleOss/MiniGame_Night_Open/blob/main/src/main/java/com/doubleos/night/variable/MainGame.java#L778)
 
+***
 
 ### 4. 교도관 투표 발각 로직
 > * ### 플레이어 선택지 질문 Alpha 애니메이션
 > * ### Light Image Rotate Animation
 > ![2024-10-21 07;46;50](https://github.com/user-attachments/assets/61e71c54-f3dd-4278-9b98-f01b13c4a6c7)
+> ## 🔗 코드 링크
 > * ### [애니메이션 로직](https://github.com/DoubleOss/MiniGame_Night_Open/blob/main/src/main/java/com/doubleos/night/proxy/ClientProxy.java#L1111)
